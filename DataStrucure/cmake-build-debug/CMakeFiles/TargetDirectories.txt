@@ -1,0 +1,3 @@
+C:/Users/New 1000 Mezza/Desktop/projds/cmake-build-debug/CMakeFiles/projds.dir
+C:/Users/New 1000 Mezza/Desktop/projds/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/New 1000 Mezza/Desktop/projds/cmake-build-debug/CMakeFiles/rebuild_cache.dir
